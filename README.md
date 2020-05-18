@@ -6,12 +6,12 @@ All the necessary materials needed will be posted here.
 Lab Guides:
 1. Azure VM-CLI
 2. Azure VM-Portal
-3. Azure ARM
+3. Azure ARM PANW
 4. Azure Storage
 5. Azure VNET-to-VNET
 6. Azure Terraform
 7. Azure DevOps Terraform
-8. Bonus Lab (https://github.com/PaloAltoNetworks/azure/blob/master/two-tier-sample/README.md)
+
 
 LAB-Files contains several files needed during the Labs
 
